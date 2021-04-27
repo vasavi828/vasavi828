@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vasavi828
-- 👀 I’m interested in developi0ng an application
+- 👀 I’m interested in developing an application(web and android )
 - 🌱 I’m currently learning ...cs50 web programing using javscript and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
